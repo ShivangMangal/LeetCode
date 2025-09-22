@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/ShivangMangal/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangMangal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivangMangal/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangMangal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
