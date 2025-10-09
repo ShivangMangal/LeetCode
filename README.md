@@ -137,4 +137,8 @@
 | [0100-same-tree](https://github.com/ShivangMangal/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShivangMangal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/ShivangMangal/LeetCode/tree/master/0112-path-sum) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/ShivangMangal/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
