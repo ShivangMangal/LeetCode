@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/ShivangMangal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0067-add-binary](https://github.com/ShivangMangal/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
