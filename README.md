@@ -50,11 +50,13 @@
 | [0069-sqrtx](https://github.com/ShivangMangal/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShivangMangal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivangMangal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
