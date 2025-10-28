@@ -70,6 +70,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivangMangal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ShivangMangal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivangMangal/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/ShivangMangal/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivangMangal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ShivangMangal/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## String Matching
 |  |
