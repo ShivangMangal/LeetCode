@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 | [0070-climbing-stairs](https://github.com/ShivangMangal/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
