@@ -22,6 +22,7 @@
 | [0283-move-zeroes](https://github.com/ShivangMangal/LeetCode/tree/master/0283-move-zeroes) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivangMangal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -199,4 +202,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0258-add-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
