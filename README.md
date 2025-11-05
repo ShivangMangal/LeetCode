@@ -58,6 +58,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
@@ -84,6 +85,7 @@
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ShivangMangal/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
