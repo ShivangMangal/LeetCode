@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ShivangMangal/LeetCode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/ShivangMangal/LeetCode/tree/master/0414-third-maximum-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -162,6 +163,7 @@
 | [0088-merge-sorted-array](https://github.com/ShivangMangal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/ShivangMangal/LeetCode/tree/master/0414-third-maximum-number) |
 ## Tree
 |  |
 | ------- |
