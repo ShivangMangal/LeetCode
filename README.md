@@ -108,6 +108,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ShivangMangal/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShivangMangal/LeetCode/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/ShivangMangal/LeetCode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ShivangMangal/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
