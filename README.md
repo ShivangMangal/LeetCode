@@ -17,6 +17,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangMangal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShivangMangal/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -32,6 +33,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivangMangal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ShivangMangal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ShivangMangal/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShivangMangal/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,6 +182,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShivangMangal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
@@ -247,4 +251,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ShivangMangal/LeetCode/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
