@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/ShivangMangal/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/ShivangMangal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/ShivangMangal/LeetCode/tree/master/0414-third-maximum-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -255,4 +256,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivangMangal/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/ShivangMangal/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
