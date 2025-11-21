@@ -40,6 +40,7 @@
 | [0141-linked-list-cycle](https://github.com/ShivangMangal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ShivangMangal/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ShivangMangal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
@@ -102,6 +103,7 @@
 | [0071-simplify-path](https://github.com/ShivangMangal/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
