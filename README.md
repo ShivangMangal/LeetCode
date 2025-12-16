@@ -188,6 +188,7 @@
 | [0118-pascals-triangle](https://github.com/ShivangMangal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangMangal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0338-counting-bits) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Trie
@@ -217,6 +218,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ShivangMangal/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShivangMangal/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
