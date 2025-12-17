@@ -220,6 +220,7 @@
 | [0268-missing-number](https://github.com/ShivangMangal/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/ShivangMangal/LeetCode/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
