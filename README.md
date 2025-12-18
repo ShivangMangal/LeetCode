@@ -95,6 +95,7 @@
 | [0268-missing-number](https://github.com/ShivangMangal/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShivangMangal/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -221,6 +222,7 @@
 | [0338-counting-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/ShivangMangal/LeetCode/tree/master/0461-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Simulation
 |  |
 | ------- |
