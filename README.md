@@ -59,6 +59,7 @@
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/ShivangMangal/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -135,6 +136,7 @@
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ShivangMangal/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivangMangal/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/ShivangMangal/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
@@ -330,6 +332,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ShivangMangal/LeetCode/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
