@@ -37,6 +37,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivangMangal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivangMangal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -258,6 +259,7 @@
 | [0414-third-maximum-number](https://github.com/ShivangMangal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ShivangMangal/LeetCode/tree/master/0455-assign-cookies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3606-coupon-code-validator](https://github.com/ShivangMangal/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
@@ -303,6 +305,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ShivangMangal/LeetCode/tree/master/0455-assign-cookies) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Number Theory
 |  |
 | ------- |
