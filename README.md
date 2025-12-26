@@ -147,6 +147,7 @@
 | [0500-keyboard-row](https://github.com/ShivangMangal/LeetCode/tree/master/0500-keyboard-row) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ShivangMangal/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3606-coupon-code-validator](https://github.com/ShivangMangal/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivangMangal/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/ShivangMangal/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivangMangal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Function
 |  |
