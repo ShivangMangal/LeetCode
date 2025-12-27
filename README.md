@@ -136,6 +136,7 @@
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ShivangMangal/LeetCode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/ShivangMangal/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ShivangMangal/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -274,6 +275,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivangMangal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShivangMangal/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 | [0101-symmetric-tree](https://github.com/ShivangMangal/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivangMangal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShivangMangal/LeetCode/tree/master/0112-path-sum) |
+| [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -292,6 +295,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivangMangal/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ShivangMangal/LeetCode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -363,4 +367,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShivangMangal/LeetCode/tree/master/0496-next-greater-element-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
