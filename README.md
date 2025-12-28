@@ -36,6 +36,7 @@
 | [0706-design-hashmap](https://github.com/ShivangMangal/LeetCode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivangMangal/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -169,6 +170,7 @@
 | [0278-first-bad-version](https://github.com/ShivangMangal/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
