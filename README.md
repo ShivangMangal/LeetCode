@@ -48,6 +48,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShivangMangal/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivangMangal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivangMangal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -122,6 +123,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShivangMangal/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/ShivangMangal/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivangMangal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivangMangal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -420,4 +422,5 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
