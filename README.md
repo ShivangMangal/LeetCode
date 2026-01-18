@@ -114,6 +114,7 @@
 | [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ShivangMangal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
@@ -164,6 +165,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ShivangMangal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/ShivangMangal/LeetCode/tree/master/0500-keyboard-row) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -271,6 +273,7 @@
 | [0067-add-binary](https://github.com/ShivangMangal/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
