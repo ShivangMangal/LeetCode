@@ -31,6 +31,7 @@
 | [0455-assign-cookies](https://github.com/ShivangMangal/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ShivangMangal/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/ShivangMangal/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ShivangMangal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShivangMangal/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/ShivangMangal/LeetCode/tree/master/0506-relative-ranks) |
@@ -274,6 +275,7 @@
 | [0258-add-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/ShivangMangal/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
