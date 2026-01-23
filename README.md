@@ -40,6 +40,7 @@
 | [0706-design-hashmap](https://github.com/ShivangMangal/LeetCode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivangMangal/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShivangMangal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/ShivangMangal/LeetCode/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/ShivangMangal/LeetCode/tree/master/0888-fair-candy-swap) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ShivangMangal/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -365,6 +366,7 @@
 | [0409-longest-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ShivangMangal/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ShivangMangal/LeetCode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/ShivangMangal/LeetCode/tree/master/0860-lemonade-change) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Number Theory
