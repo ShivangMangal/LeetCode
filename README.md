@@ -37,6 +37,7 @@
 | [0506-relative-ranks](https://github.com/ShivangMangal/LeetCode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/ShivangMangal/LeetCode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0706-design-hashmap](https://github.com/ShivangMangal/LeetCode/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ShivangMangal/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShivangMangal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -127,6 +128,7 @@
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -316,6 +318,7 @@
 | [0414-third-maximum-number](https://github.com/ShivangMangal/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/ShivangMangal/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ShivangMangal/LeetCode/tree/master/0506-relative-ranks) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/ShivangMangal/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/ShivangMangal/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
