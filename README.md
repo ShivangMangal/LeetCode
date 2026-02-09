@@ -221,6 +221,7 @@
 | [0190-reverse-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -345,6 +346,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -369,6 +372,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -390,6 +394,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ShivangMangal/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
+| [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Number Theory
@@ -480,4 +485,8 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShivangMangal/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
