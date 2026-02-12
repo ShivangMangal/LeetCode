@@ -99,6 +99,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/ShivangMangal/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -195,6 +196,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShivangMangal/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3606-coupon-code-validator](https://github.com/ShivangMangal/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -435,6 +437,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ShivangMangal/LeetCode/tree/master/0383-ransom-note) |
+| [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
 | ------- |
@@ -471,6 +474,7 @@
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/ShivangMangal/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShivangMangal/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Geometry
 |  |
 | ------- |
