@@ -5,9 +5,7 @@ class Solution {
         int n = s.length();
         int ans = 1;
 
-        // -------------------------
-        // Case 1: Single character
-        // -------------------------
+ 
         int count = 1;
         for (int i = 1; i < n; i++) {
             if (s.charAt(i) == s.charAt(i - 1)) {
@@ -18,14 +16,9 @@ class Solution {
             }
         }
 
-        // -------------------------
-        // Case 2: All three equal
-        // -------------------------
         ans = Math.max(ans, threeEqual(s));
 
-        // -------------------------
-        // Case 3: Exactly two equal
-        // -------------------------
+
         ans = Math.max(ans, twoEqual(s, 'a', 'b'));
         ans = Math.max(ans, twoEqual(s, 'a', 'c'));
         ans = Math.max(ans, twoEqual(s, 'b', 'c'));
@@ -67,7 +60,6 @@ class Solution {
         int start = 0;
 
         while (start < s.length()) {
-            // skip invalid chars
             while (start < s.length() &&
                   s.charAt(start) != x &&
                   s.charAt(start) != y) {
