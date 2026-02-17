@@ -300,6 +300,7 @@
 | [0268-missing-number](https://github.com/ShivangMangal/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/ShivangMangal/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/ShivangMangal/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ShivangMangal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/ShivangMangal/LeetCode/tree/master/0461-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -475,6 +476,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ShivangMangal/LeetCode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/ShivangMangal/LeetCode/tree/master/0401-binary-watch) |
 ## Enumeration
 |  |
 | ------- |
