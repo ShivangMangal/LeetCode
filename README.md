@@ -366,6 +366,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -379,6 +380,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -392,6 +394,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ShivangMangal/LeetCode/tree/master/0257-binary-tree-paths) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
