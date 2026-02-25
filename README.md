@@ -50,6 +50,7 @@
 | [1200-minimum-absolute-difference](https://github.com/ShivangMangal/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ShivangMangal/LeetCode/tree/master/1390-four-divisors) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -310,6 +311,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/ShivangMangal/LeetCode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangMangal/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
@@ -349,6 +351,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/ShivangMangal/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/ShivangMangal/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShivangMangal/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -453,6 +456,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ShivangMangal/LeetCode/tree/master/0383-ransom-note) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
