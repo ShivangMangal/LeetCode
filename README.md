@@ -144,6 +144,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ShivangMangal/LeetCode/tree/master/1390-four-divisors) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShivangMangal/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1925-count-square-sum-triples](https://github.com/ShivangMangal/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -315,6 +316,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangMangal/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShivangMangal/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
 |  |
@@ -326,6 +328,7 @@
 | [0495-teemo-attacking](https://github.com/ShivangMangal/LeetCode/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangMangal/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3379-transformed-array](https://github.com/ShivangMangal/LeetCode/tree/master/3379-transformed-array) |
