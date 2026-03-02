@@ -53,6 +53,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ShivangMangal/LeetCode/tree/master/1390-four-divisors) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShivangMangal/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -428,6 +429,7 @@
 | [0860-lemonade-change](https://github.com/ShivangMangal/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -490,6 +492,7 @@
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
