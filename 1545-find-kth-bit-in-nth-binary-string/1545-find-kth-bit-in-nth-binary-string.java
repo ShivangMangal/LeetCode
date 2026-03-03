@@ -9,7 +9,6 @@ class Solution {
         if (k < mid) 
             return findKthBit(n - 1, k);
         
-        // k > mid
         char ch = findKthBit(n - 1, (1 << n) - k);
         return ch == '0' ? '1' : '0';
     }
