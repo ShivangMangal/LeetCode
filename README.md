@@ -207,6 +207,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ShivangMangal/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ShivangMangal/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivangMangal/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/ShivangMangal/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShivangMangal/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -219,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivangMangal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivangMangal/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShivangMangal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
@@ -282,6 +284,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivangMangal/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivangMangal/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
