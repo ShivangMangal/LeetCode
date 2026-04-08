@@ -90,6 +90,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/ShivangMangal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangMangal/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ShivangMangal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
@@ -282,6 +283,7 @@
 | [0191-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ShivangMangal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -391,6 +393,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShivangMangal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/ShivangMangal/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ShivangMangal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Memoization
 |  |
 | ------- |
