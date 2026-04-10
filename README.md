@@ -93,6 +93,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangMangal/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ShivangMangal/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangMangal/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangMangal/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
