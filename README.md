@@ -65,6 +65,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ShivangMangal/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangMangal/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivangMangal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShivangMangal/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/ShivangMangal/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -287,6 +288,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ShivangMangal/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/ShivangMangal/LeetCode/tree/master/0888-fair-candy-swap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivangMangal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivangMangal/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
@@ -322,6 +324,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ShivangMangal/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivangMangal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangMangal/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
