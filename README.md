@@ -108,6 +108,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ShivangMangal/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ShivangMangal/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
@@ -363,6 +364,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ShivangMangal/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -644,6 +646,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/ShivangMangal/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ShivangMangal/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/ShivangMangal/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
