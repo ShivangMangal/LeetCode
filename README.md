@@ -255,6 +255,7 @@
 | [0657-robot-return-to-origin](https://github.com/ShivangMangal/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ShivangMangal/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/ShivangMangal/LeetCode/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangMangal/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -386,6 +387,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ShivangMangal/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ShivangMangal/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/ShivangMangal/LeetCode/tree/master/0796-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShivangMangal/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bit Manipulation
