@@ -21,6 +21,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangMangal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ShivangMangal/LeetCode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivangMangal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ShivangMangal/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ShivangMangal/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -311,6 +312,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ShivangMangal/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ShivangMangal/LeetCode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShivangMangal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ShivangMangal/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ShivangMangal/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ShivangMangal/LeetCode/tree/master/0278-first-bad-version) |
