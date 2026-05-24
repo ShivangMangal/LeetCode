@@ -97,6 +97,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShivangMangal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShivangMangal/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShivangMangal/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShivangMangal/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -163,6 +164,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ShivangMangal/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShivangMangal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -299,6 +301,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ShivangMangal/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShivangMangal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ShivangMangal/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3606-coupon-code-validator](https://github.com/ShivangMangal/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/ShivangMangal/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -402,6 +405,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShivangMangal/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
