@@ -200,6 +200,7 @@
 | [0203-remove-linked-list-elements](https://github.com/ShivangMangal/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShivangMangal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/ShivangMangal/LeetCode/tree/master/0706-design-hashmap) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangMangal/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -396,6 +397,7 @@
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivangMangal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ShivangMangal/LeetCode/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangMangal/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/ShivangMangal/LeetCode/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShivangMangal/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
