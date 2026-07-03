@@ -128,6 +128,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ShivangMangal/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/ShivangMangal/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ShivangMangal/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShivangMangal/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShivangMangal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -383,6 +384,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivangMangal/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ShivangMangal/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
@@ -454,6 +456,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ShivangMangal/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/ShivangMangal/LeetCode/tree/master/3660-jump-game-ix) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -702,6 +705,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ShivangMangal/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShivangMangal/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
@@ -829,11 +833,13 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShivangMangal/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ShivangMangal/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
 |  |
@@ -867,4 +873,8 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShivangMangal/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/ShivangMangal/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
