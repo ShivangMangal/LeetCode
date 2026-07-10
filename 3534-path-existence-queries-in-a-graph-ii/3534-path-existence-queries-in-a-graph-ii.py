@@ -47,7 +47,6 @@ class Solution:
             if u == v:
                 res.append(0)
                 continue
-
             pu, pv = pos[u], pos[v]
             if pu > pv:
                 pu, pv = pv, pu
@@ -56,5 +55,4 @@ class Solution:
                 res.append(-1)
             else:
                 res.append(min_hops(pu, pv))
-
         return res
