@@ -335,6 +335,7 @@
 | [0796-rotate-string](https://github.com/ShivangMangal/LeetCode/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShivangMangal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/ShivangMangal/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShivangMangal/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivangMangal/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -501,6 +502,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShivangMangal/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ShivangMangal/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShivangMangal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivangMangal/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
@@ -708,6 +710,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/ShivangMangal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ShivangMangal/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ShivangMangal/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShivangMangal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/ShivangMangal/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -843,6 +846,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ShivangMangal/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShivangMangal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
