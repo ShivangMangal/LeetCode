@@ -38,6 +38,7 @@
 | [0455-assign-cookies](https://github.com/ShivangMangal/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ShivangMangal/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/ShivangMangal/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/ShivangMangal/LeetCode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/ShivangMangal/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/ShivangMangal/LeetCode/tree/master/0500-keyboard-row) |
@@ -257,6 +258,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ShivangMangal/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/ShivangMangal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -304,6 +306,7 @@
 | [0206-reverse-linked-list](https://github.com/ShivangMangal/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShivangMangal/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ShivangMangal/LeetCode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ShivangMangal/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
@@ -478,6 +481,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangMangal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/ShivangMangal/LeetCode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/ShivangMangal/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0788-rotated-digits) |
@@ -785,6 +789,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 ## Interactive
 |  |
