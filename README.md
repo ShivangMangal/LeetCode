@@ -73,6 +73,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ShivangMangal/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/ShivangMangal/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -270,6 +271,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ShivangMangal/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShivangMangal/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/ShivangMangal/LeetCode/tree/master/1840-maximum-building-height) |
@@ -492,6 +494,7 @@
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShivangMangal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivangMangal/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -795,6 +798,7 @@
 | [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShivangMangal/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
+| [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -974,4 +978,12 @@
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
