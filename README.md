@@ -62,6 +62,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/ShivangMangal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ShivangMangal/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ShivangMangal/LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/ShivangMangal/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -271,6 +272,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/ShivangMangal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/ShivangMangal/LeetCode/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
@@ -500,6 +502,7 @@
 | [0877-stone-game](https://github.com/ShivangMangal/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/ShivangMangal/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -812,6 +815,7 @@
 | [0486-predict-the-winner](https://github.com/ShivangMangal/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ShivangMangal/LeetCode/tree/master/0877-stone-game) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Interactive
 |  |
@@ -839,6 +843,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivangMangal/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShivangMangal/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ShivangMangal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ShivangMangal/LeetCode/tree/master/1871-jump-game-vii) |
@@ -998,9 +1003,11 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
