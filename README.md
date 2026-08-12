@@ -114,6 +114,7 @@
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2906-construct-product-matrix](https://github.com/ShivangMangal/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShivangMangal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShivangMangal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivangMangal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/ShivangMangal/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ShivangMangal/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -208,6 +209,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ShivangMangal/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ShivangMangal/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ShivangMangal/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShivangMangal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ShivangMangal/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShivangMangal/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -411,6 +413,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShivangMangal/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1871-jump-game-vii](https://github.com/ShivangMangal/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivangMangal/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShivangMangal/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ShivangMangal/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Binary Search
