@@ -101,6 +101,7 @@
 | [2126-destroying-asteroids](https://github.com/ShivangMangal/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ShivangMangal/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ShivangMangal/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivangMangal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ShivangMangal/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShivangMangal/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ShivangMangal/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -381,6 +382,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShivangMangal/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/ShivangMangal/LeetCode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ShivangMangal/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivangMangal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/ShivangMangal/LeetCode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ShivangMangal/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShivangMangal/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -947,6 +949,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivangMangal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Graph Theory
 |  |
@@ -972,6 +975,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/ShivangMangal/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ShivangMangal/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
