@@ -136,6 +136,7 @@
 | [3379-transformed-array](https://github.com/ShivangMangal/LeetCode/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ShivangMangal/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ShivangMangal/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangMangal/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -220,6 +221,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/ShivangMangal/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ShivangMangal/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/ShivangMangal/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ShivangMangal/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
