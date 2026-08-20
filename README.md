@@ -124,6 +124,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ShivangMangal/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ShivangMangal/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ShivangMangal/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShivangMangal/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivangMangal/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -621,6 +622,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/ShivangMangal/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ShivangMangal/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ShivangMangal/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ShivangMangal/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/ShivangMangal/LeetCode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ShivangMangal/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ShivangMangal/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
