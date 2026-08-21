@@ -19,7 +19,6 @@ class Solution:
                 if not valid:
                     continue
                 multiples = x // lcm
-
                 if bits % 2 == 1:
                     ans += multiples
                 else:
