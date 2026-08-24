@@ -92,6 +92,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangMangal/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ShivangMangal/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/ShivangMangal/LeetCode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ShivangMangal/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -295,6 +296,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ShivangMangal/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/ShivangMangal/LeetCode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/ShivangMangal/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/ShivangMangal/LeetCode/tree/master/1927-sum-game) |
@@ -537,6 +539,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ShivangMangal/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1764-maximum-repeating-substring](https://github.com/ShivangMangal/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1871-jump-game-vii](https://github.com/ShivangMangal/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ShivangMangal/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ShivangMangal/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivangMangal/LeetCode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -855,6 +858,7 @@
 | [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShivangMangal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ShivangMangal/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ShivangMangal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Interactive
@@ -888,6 +892,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/ShivangMangal/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/ShivangMangal/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/ShivangMangal/LeetCode/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ShivangMangal/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ShivangMangal/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2615-sum-of-distances](https://github.com/ShivangMangal/LeetCode/tree/master/2615-sum-of-distances) |
@@ -1050,6 +1055,7 @@
 | [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShivangMangal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShivangMangal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1057,6 +1063,7 @@
 | [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ShivangMangal/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ShivangMangal/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/ShivangMangal/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ShivangMangal/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
