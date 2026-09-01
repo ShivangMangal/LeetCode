@@ -23,7 +23,6 @@ class Solution:
         directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
         while q:
             r, c, e, mask, moves = q.popleft()
-
             for dr, dc in directions:
                 nr = r + dr
                 nc = c + dc
