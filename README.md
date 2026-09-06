@@ -372,6 +372,7 @@
 | [0058-length-of-last-word](https://github.com/ShivangMangal/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivangMangal/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ShivangMangal/LeetCode/tree/master/0071-simplify-path) |
+| [0115-distinct-subsequences](https://github.com/ShivangMangal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ShivangMangal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/ShivangMangal/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/ShivangMangal/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -538,6 +539,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ShivangMangal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ShivangMangal/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ShivangMangal/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/ShivangMangal/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ShivangMangal/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShivangMangal/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
