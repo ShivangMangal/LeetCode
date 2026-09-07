@@ -393,6 +393,7 @@
 | [0680-valid-palindrome-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ShivangMangal/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/ShivangMangal/LeetCode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/ShivangMangal/LeetCode/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ShivangMangal/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ShivangMangal/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -550,6 +551,7 @@
 | [0788-rotated-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/ShivangMangal/LeetCode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/ShivangMangal/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/ShivangMangal/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ShivangMangal/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ShivangMangal/LeetCode/tree/master/1140-stone-game-ii) |
