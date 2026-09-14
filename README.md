@@ -300,6 +300,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ShivangMangal/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivangMangal/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/ShivangMangal/LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/ShivangMangal/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/ShivangMangal/LeetCode/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/ShivangMangal/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1086-divisor-game](https://github.com/ShivangMangal/LeetCode/tree/master/1086-divisor-game) |
@@ -1022,6 +1023,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ShivangMangal/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ShivangMangal/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ShivangMangal/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Doubly-Linked List
